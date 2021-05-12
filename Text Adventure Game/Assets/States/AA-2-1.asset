@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: AA-2-1
+  m_EditorClassIdentifier: 
+  storyText: 'Distract trick worked as expected!
+
+    One of them walk up to investigate
+    as he couldn''t see where the leader is he is alert. The other guy is still busy
+    interrogating. Move:
+
+    1. Knife them both one by one. Free the hostage and
+    escape quietly.
+
+    2. What you see other option here? Are you dumb?'
+  nextStates:
+  - {fileID: 11400000, guid: 2e0016ecf1b15b04b8a61e72640a4b9c, type: 2}
+  - {fileID: 11400000, guid: f0c88e6520a061048b9f8be75a3ea3cd, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: AA-1
+  m_EditorClassIdentifier: 
+  storyText: 'The Leader being held, shouts at others to stand the ground and drop
+    thier weapons at once. Listening to his plea, bandits drop their weapons and
+    freed the hostage.
+
+    You have the hostage free, now what will you do to get
+    out safely?
+
+    1. Ask the hostage to take one of bandit''s horse and run.
+
+    2.
+    Ask the one the bandits to take the rope and tie all others.'
+  nextStates:
+  - {fileID: 11400000, guid: 565bec7a868a76f4ea7b91d8c7addbb5, type: 2}
+  - {fileID: 11400000, guid: c277b655b11cfff4286c951ea4985dc4, type: 2}

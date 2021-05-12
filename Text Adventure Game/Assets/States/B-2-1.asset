@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: B-2-1
+  m_EditorClassIdentifier: 
+  storyText: 'Your act convinces the leader as he likes to dominate and feel like
+    a king. On seeing the relaxation at leader''s face the bandit leaves the hostage
+    and moves forward. Sieze the Oppotunity and Make a right decision.
+
+    1. Shoot
+    them all. You have a clear shot at them and they are relaxed enough not to shoot
+    back at you.
+
+    2. Ask the leader to release the hostage and strike a bargain
+    for gold which you saved for an exotic rifle.'
+  nextStates:
+  - {fileID: 11400000, guid: f706464b2d9e71944a18f35a08d006d6, type: 2}
+  - {fileID: 11400000, guid: a17c00577abe93d48abaeebcf3630341, type: 2}

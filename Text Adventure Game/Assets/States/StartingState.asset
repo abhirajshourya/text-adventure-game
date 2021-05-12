@@ -19,3 +19,6 @@ MonoBehaviour:
     and 3 throwing knives. Shooting could lead to hostage's death. You are infiltrating
     at night. \nAct carefully and  choose wisely:\n \n1. Analyse the bandits' positions
     carefully.\n\n2. Shoot the 2 bandits interrogating the hostage."
+  nextStates:
+  - {fileID: 11400000, guid: b6872d4a939a3ef4eb2b2d56c020ead3, type: 2}
+  - {fileID: 11400000, guid: 501399ebb792cd840961876530d89dc2, type: 2}

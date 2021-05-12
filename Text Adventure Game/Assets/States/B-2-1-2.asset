@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: B-2-1-2
+  m_EditorClassIdentifier: 
+  storyText: 'Upon Asking the Leader, you come to know they are not gonna give you
+    the hostage and will take your gold too. You are furious and want to kill them
+    all, but if you could avoid the bloodshed will you?
+
+    1. Increase the reward
+    2x. Leader seems greedy af now.
+
+    2. Quickdraw the 2 and knife out the last.'
+  nextStates:
+  - {fileID: 11400000, guid: 671485cebe91f254285c8f0de0022e13, type: 2}
+  - {fileID: 11400000, guid: 26423d5c1b1b4414d9d703c0ac8d9c6e, type: 2}

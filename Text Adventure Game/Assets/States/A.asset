@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: A
+  m_EditorClassIdentifier: 
+  storyText: 'Upon analysing the bandit camp closely you get to know the actual positions
+    of the bandits. 2 bandits are just outside the camp facing your direction engaged
+    in trolling each other for the rusty pistols they have. 1 on the back side of
+    the camp gathering hay bales for horses. 2 near the hostage interrogating as
+    before. 1 on the right side observing the interrogation, might be the leader.
+    Last one is on the far left of the camp trying oil his gun.
+
+    1. Throw a decoy
+    into a nearby bush and change cover towards right moving towards the camp leader.
+
+    2.
+    Throw a decoy into a nearby bush and change cover towards left and take out the
+    2 bandits at front with knives.'
+  nextStates:
+  - {fileID: 11400000, guid: 96501f6235b9b79498b731533570206c, type: 2}
+  - {fileID: 11400000, guid: 828e5cd4f7c487f478a8c0a694596bf6, type: 2}

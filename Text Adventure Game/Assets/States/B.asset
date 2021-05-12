@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: B
+  m_EditorClassIdentifier: 
+  storyText: 'You shot them!!! Leader observing the interrogation is alarmed and
+    ready to fire at you. The 2 bandits facing you at front starts shooting. You
+    are in cover right now. You need to act fast now before anything fatal happens.
+    Hostage is now surrounded by 3 bandits, one armed with a Machette, he is holding
+    the hostage with his neck on the sharp edge of his weapon. You need to act fast.
+
+    1.
+    Throw a decoy into a nearby bush and change cover towards left, trying to shoot
+    the bandit holding the hostage.
+
+    2. Throw a decoy into a nearby bush and
+    change cover towards left and take out the 2 bandits at front with revolver.
+
+    3.
+    Shoot the guy holding the hostage.'
+  nextStates:
+  - {fileID: 11400000, guid: bdb8e7ff7c24d7c439cf862ebf533a87, type: 2}
+  - {fileID: 11400000, guid: c23a48c8ab91bf2499c2b4c09eaf7874, type: 2}
+  - {fileID: 11400000, guid: d462d5f28e17cf048aeb2e317761a2a2, type: 2}

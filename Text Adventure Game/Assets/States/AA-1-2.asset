@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: AA-1-2
+  m_EditorClassIdentifier: 
+  storyText: 'The bandit cleverly picksup the spare gun with the ropes and shoots
+    at you. Yes you are a FOOL :D
+
+    Do the saving act in your next life. You are
+    too kind for this world.'
+  nextStates:
+  - {fileID: 11400000, guid: 9c5dfd94e68c910499261236ff1fc969, type: 2}
