@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7414d46f22e520149ba3d19e44c73ba0, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Infiltrating a bandit camp (O' Driscolls) holding a hostage. Hiding
+    behind a boulder you observe the camp. You need to free the hostage unharmed.
+    There are 7 bandits, all armed and awake, 2 of them are interrogating the hostage
+    and the Leader is observing the interrogation. You have a revolver with 6 bullets
+    and 3 throwing knives. Shooting could lead to hostage's death. You are infiltrating
+    at night. \nAct carefully and  choose wisely:\n \n1. Analyse the bandits' positions
+    carefully.\n\n2. Shoot the 2 bandits interrogating the hostage."
